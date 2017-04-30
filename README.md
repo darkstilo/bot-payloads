@@ -1,4 +1,4 @@
-# Método Get
+# Esqueletos GET
 
 - [x] Texto de Conexão: Normal
 - [x] Método Requisitado: GET
